@@ -1,11 +1,11 @@
 const FisicaI = [
-    {name: 'parcial' , fecha: '6-junio', fechaReal:'2023-06-06'},
-    {name: 'parcial' , fecha: '4-julio', fechaReal:'2023-07-04'},
-    {name: 'final' , fecha: '6-julio', fechaReal:'2023-07-06'},
-    {name: 'final' , fecha: '13-julio', fechaReal:'2023-07-13'},
-    {name: 'final' , fecha: '20-julio', fechaReal:'2023-07-20'},
-    {name: 'final' , fecha: '27-julio', fechaReal:'2023-07-27'},
-    {name: 'final' , fecha: '3-agosto', fechaReal:'2023-08-03'},
+    {name: 'Parcial' , fecha: '6-junio', fechaReal:'2023-06-06'},
+    {name: 'Parcial' , fecha: '4-julio', fechaReal:'2023-07-04'},
+    {name: 'Final' , fecha: '6-julio', fechaReal:'2023-07-06'},
+    {name: 'Final' , fecha: '13-julio', fechaReal:'2023-07-13'},
+    {name: 'Final' , fecha: '20-julio', fechaReal:'2023-07-20'},
+    {name: 'Final' , fecha: '27-julio', fechaReal:'2023-07-27'},
+    {name: 'Final' , fecha: '3-agosto', fechaReal:'2023-08-03'},
   ];
   
   FisicaI.sort(function(a, b) {

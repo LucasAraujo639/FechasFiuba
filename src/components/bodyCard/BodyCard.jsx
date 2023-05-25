@@ -10,7 +10,7 @@ export const BodyCard = ({data}) => {
   {data && data.map((item,i) => (
             <div key={i} className='row m-0 p-0 align-items-center' >
                 <div className='col '>{item.name}</div>
-                <div className='col '>{item.fecha}</div>
+                <div className='col col-5'>{item.fecha}</div>
                 <div className='col '>{item.diasRestantes}</div>
 
             </div>

@@ -1,10 +1,10 @@
 const AM2 = [
-    {name: 'parcial' , fecha: '5-junio', fechaReal:'2023-06-05'},
-    {name: 'final' , fecha: '4-julio', fechaReal:'2023-07-04'},
-    {name: 'final' , fecha: '11-julio', fechaReal:'2023-07-11'},
-    {name: 'final' , fecha: '1-agosto', fechaReal:'2023-08-01'},
-    {name: 'final' , fecha: '8-agosto', fechaReal:'2023-08-08'},
-    {name: 'final' , fecha: '15-agosto', fechaReal:'2023-08-15'},
+    {name: 'Parcial' , fecha: '5-junio', fechaReal:'2023-06-05'},
+    {name: 'Final' , fecha: '4-julio', fechaReal:'2023-07-04'},
+    {name: 'Final' , fecha: '11-julio', fechaReal:'2023-07-11'},
+    {name: 'Final' , fecha: '1-agosto', fechaReal:'2023-08-01'},
+    {name: 'Final' , fecha: '8-agosto', fechaReal:'2023-08-08'},
+    {name: 'Final' , fecha: '15-agosto', fechaReal:'2023-08-15'},
   ];
   
   AM2.sort(function(a, b) {
