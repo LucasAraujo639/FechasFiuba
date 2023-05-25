@@ -6,7 +6,7 @@
 .fila{
     background-color: #0D6EFD;
     flex: 1; /* Las columnas ocuparán el mismo espacio */
-    margin-right: 10px; /* Espacio entre las columnas */
+    margin-right: 5px; /* Espacio entre las columnas */
 }
 .fila:last-child {
     margin-right: 0; /* Eliminamos el margen derecho de la última columna */
