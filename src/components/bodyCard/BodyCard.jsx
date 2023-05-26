@@ -3,9 +3,9 @@ export const BodyCard = ({data}) => {
   return (
     <div className="container text-center ">
     <div className ={`row m-0 ${estilos.contenedor}`}>
-        <div className={`col border-top border-bottom border-start border-primary border-2 rounded-5 border-white text-light ${estilos.fila}`}>Categoría</div>
-        <div className={`col border-top border-bottom border-start border-primary border-2 rounded-5 border-white text-light ${estilos.fila}`}>Fecha</div>
-        <div className={`col border-top border-bottom border-start border-primary border-2 rounded-5 border-white text-light ${estilos.fila}`}>Dias Restantes</div>
+        <div className={`col border-top border-bottom border-start border-primary border-2 rounded-5 border-white text-light p-1 ${estilos.fila}`}>Categoría</div>
+        <div className={`col border-top border-bottom border-start border-primary border-2 rounded-5 border-white text-light p-1 ${estilos.fila}`}>Fecha</div>
+        <div className={`col border-top border-bottom border-start border-primary border-2 rounded-5 border-white text-light p-1 ${estilos.fila}`}>Dias Restantes</div>
     </div>
   <div className='row m-0 '>
   {data && data.map((item,i) => (
