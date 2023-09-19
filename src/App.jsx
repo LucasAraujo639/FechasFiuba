@@ -15,15 +15,15 @@ function App() {
     
     <div className={`ml-0 mr-0 ${style.container}`}>
       <h3 className='fw-bold text-decoration-underline text-center text-primary'>Fechas de parciales y finales de la FIUBA</h3>
-      <Card title="AM2" 
+      <Card title="Matematica Discreta" 
       body={<BodyCard data={AM2}/>}
       /> 
 
-      <Card title="Fisica I" 
+      <Card title="Algo 2" 
       body={<BodyCard data={FisicaI}/>}
       />
 
-      <Card title="Algebra II" 
+      <Card title="Probabilidad y Estadistica" 
       body={<BodyCard data={Algebra}/>}
       />  
 

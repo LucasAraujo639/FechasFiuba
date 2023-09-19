@@ -1,11 +1,12 @@
+//Probabiliadyestadictica
+
 const Algebra = [
-    {name: 'Parcial' , fecha: '10-junio', fechaReal:'2023-06-10'},
-    {name: 'Parcial' , fecha: '5-julio', fechaReal:'2023-07-05'},
-    {name: 'Final' , fecha: '5-julio', fechaReal:'2023-07-05'},
-    {name: 'Final' , fecha: '12-julio', fechaReal:'2023-07-12'},
-    {name: 'Final' , fecha: '2-agosto', fechaReal:'2023-08-02'},
-    {name: 'Final' , fecha: '9-agosto', fechaReal:'2023-08-09'},
-    {name: 'Final' , fecha: '16-agosto', fechaReal:'2023-08-16'},
+    {name: 'Parcial' , fecha: '11-noviembre', fechaReal:'2023-11-04'},
+    {name: '1er Recu' , fecha: '25-noviembre', fechaReal:'2023-11-25'},
+    {name: '2do Recu' , fecha: '14-diciembre', fechaReal:'2023-12-14'},
+    {name: 'Final' , fecha: '14-diciembre', fechaReal:'2023-12-14'},
+    {name: 'Final' , fecha: '21-diciembre', fechaReal:'2023-12-21'},
+
   ];
   
   Algebra.sort(function(a, b) {

@@ -1,11 +1,14 @@
+//algortimos y programacion II
+
 const FisicaI = [
-    {name: 'Parcial' , fecha: '6-junio', fechaReal:'2023-06-06'},
-    {name: 'Parcial' , fecha: '4-julio', fechaReal:'2023-07-04'},
-    {name: 'Final' , fecha: '6-julio', fechaReal:'2023-07-06'},
-    {name: 'Final' , fecha: '13-julio', fechaReal:'2023-07-13'},
-    {name: 'Final' , fecha: '20-julio', fechaReal:'2023-07-20'},
-    {name: 'Final' , fecha: '27-julio', fechaReal:'2023-07-27'},
-    {name: 'Final' , fecha: '3-agosto', fechaReal:'2023-08-03'},
+    {name: 'Parcialito1' , fecha: '29-septiembre', fechaReal:'2023-09-29'},
+    {name: 'Parcialito2' , fecha: '30-octubre', fechaReal:'2023-10-30'},
+    {name: 'Parcialito3' , fecha: '24-noviembre', fechaReal:'2023-11-24'},
+    {name: 'Recu Parcialito1' , fecha: '27-noviembre', fechaReal:'2023-11-27'},
+    {name: 'Recu Parcialito2' , fecha: '1-diciembre', fechaReal:'2023-12-01'},
+    {name: 'Recu Parcialito3' , fecha: '4-diciembre', fechaReal:'2023-12-04'},
+    {name: 'Parcialito(1,2,3)' , fecha: '15-diciembre', fechaReal:'2023-12-15'},    
+    {name: 'Final' , fecha: '15-diciembre', fechaReal:'2023-12-15'},
   ];
   
   FisicaI.sort(function(a, b) {
