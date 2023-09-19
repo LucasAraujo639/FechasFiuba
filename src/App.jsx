@@ -23,7 +23,7 @@ function App() {
       body={<BodyCard data={FisicaI}/>}
       />
 
-      <Card title="Probabilidad y Estadistica" 
+      <Card title="Probabilidad y Estadistica B" 
       body={<BodyCard data={Algebra}/>}
       />  
 
